@@ -1,4 +1,4 @@
-﻿using Danske.BankingChallenge.Api.Configurations;
+﻿using Danske.BankingChallenge.Api.Model;
 using MediatR;
 
 namespace Danske.BankingChallenge.Api.CQRS.CalculateLoan
